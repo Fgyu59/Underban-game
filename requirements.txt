@@ -1,0 +1,4 @@
+# Зависимости для сборки APK через Buildozer
+
+buildozer==1.5.0
+cython==3.0.8
